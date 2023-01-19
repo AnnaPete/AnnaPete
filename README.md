@@ -1,6 +1,6 @@
 # Hi there, I'm Anna!
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaPete)](https://github.com/AnnaPete/github-readme-stats&show_icons=true&theme=radical)))
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaPete)](https://github.com/AnnaPete/github-readme-stats&show_icons=true&theme=transparent)
 
 ## Technologies and Tools
 - NPM
