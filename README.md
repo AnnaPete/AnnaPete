@@ -12,6 +12,7 @@
 - CSS/SASS
 - React
 - Typescript
+- NextJS
 
 ## About Me:
 - 😄 Pronouns: She/Her
